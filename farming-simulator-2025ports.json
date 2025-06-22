@@ -2,9 +2,9 @@
     {
         "Protocol": "Both",
         "Port": "8080",
-        "Name": "",
+        "Name": "Webserver",
         "Description": "Port used for main game traffic",
-        "Ref": ""
+        "Ref": "Webserver"
     },
     {
         "Protocol": "Both",

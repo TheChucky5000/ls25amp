@@ -1,7 +1,7 @@
 [
     {
-        "UpdateStageName": "Farming Simulator 25 Download",
-        "UpdateSourcePlatform": "Windows",
+        "UpdateStageName": "LS25 Download",
+        "UpdateSourcePlatform": "All",
         "UpdateSource": "SteamCMD",
         "UpdateSourceData": "2300320",
         "UpdateSourceArgs": "2300320",
