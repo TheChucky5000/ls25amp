@@ -1,0 +1,13 @@
+[
+    {
+        "UpdateStageName": "Farming Simulator 25 Download",
+        "UpdateSourcePlatform": "Windows",
+        "UpdateSource": "SteamCMD",
+        "UpdateSourceData": "2300320",
+        "UpdateSourceArgs": "2300320",
+        "UnzipUpdateSource": false,
+        "OverwriteExistingFiles": false,
+        "DeleteAfterExtract": true,
+        "OneShot": false
+    }
+]
